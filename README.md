@@ -1,0 +1,2 @@
+# .github
+Default account settings
